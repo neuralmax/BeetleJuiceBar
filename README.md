@@ -1,4 +1,4 @@
 # BeetleJuiceBar
 entry for global game jam 2026
-video: https://youtu.be/-AG9tbpMrpM
+video: https://youtu.be/-AG9tbpMrpM <br />
 ggj: https://globalgamejam.org/games/2026/beetle-juice-bar-2
