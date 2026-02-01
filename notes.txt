@@ -1,0 +1,47 @@
+--=( to do )=--
+[ ] add page indicator for brew scene
+[ ] add help screen scene
+[ ] animate put bug in blender
+[ ] bug crush level
+[ ] scene time recording system
+[ ] hood help, button pressing animation
+[ ] title fade in
+[ ] client fade in
+[ ] putting on x-ray mask scene
+[ ] credits screen
+[V][V] sound book open
+[ ][V] sound page turn
+[V][V] sound enter brew
+[ ][V] sound blend
+[ ][V] sound happy
+[ ][V] sound sad
+[ ] sound music
+[ ] sound
+
+
+--=( done )=--
+[V] add second character
+[V] game loop with one client
+[V] coattail mixing scene or level
+[V] customer satisfaction scene
+[V] score screen, end of day screen, after number of customers
+[V] sound Morse
+[V] brew scene
+[V] brew level assign default buttons to change scenes (client book brew)
+[V] brew screens
+[V] decoding level
+[V] decoding / recipe book
+[V] book level assign default buttons to change scenes (client book brew)
+[V] client level assign default buttons to change scenes (client book brew)
+[V] draw book
+[V] x-ray level
+[V] x-ray scan
+[V] x-ray level: if threshold is low enough, change state to xrayMSg (display animation and message)
+[V] draw brew
+[V] move states to separate py files
+[V] submit screenshot
+[V] client needs frames: talking, satisfied, unhappy
+[V] Manhattan distance on 2d plane, player can move one point, to meat another point
+[V] 2 layer mask x-ray. add 2 layers, divide by 2 every pixel value. mixer function, if mask layer larger than threshold use mask, if lower add mask
+[V] sprite loader to dict.
+[V] test levels algorithm suggestion (does not really do what's required)
